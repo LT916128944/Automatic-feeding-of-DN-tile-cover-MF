@@ -1,2 +1,3 @@
 # Automatic-feeding-of-Dongfeng-Nissan-tile-cover-material-frame
 东风日产瓦盖料框自动上料设备，机器人使用Ethernet/IP总线连接康耐摄相机，循环定位抓取料框中的小料，抓完一层，把空托盘放到废料框。
+![图片不存在](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
